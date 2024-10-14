@@ -36,7 +36,7 @@ const styles = StyleSheet.create({
     flex: 1,
     justifyContent: 'flex-start',
     alignItems: 'center',
-    backgroundColor: '#F5F5F5',
+    backgroundColor: '#FDF6F6',
     padding: 20,
   },
   backButton: {

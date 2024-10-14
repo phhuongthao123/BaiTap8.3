@@ -1,3 +1,6 @@
 # KET QUA
-![alt](image.png)
-![alt](image1.png)
+![alt](home.jpg)
+![alt](QR.jpg)
+![alt](scan.jpg)
+![alt](slide.jpg)
+![alt](start.jpg)
